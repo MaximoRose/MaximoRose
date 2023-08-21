@@ -1,11 +1,12 @@
-- 👋 Hi, I’m @MaximoRose
-- 👀 I’m interested in IT culture and how digital spaces influence real spaces.
-- 🌱 I’m currently learning python, docker, etc.
-- 💞️ I’m looking to collaborate on anything that helps people tackle whatever problem they have in IT.
-- 📫 How to reach me : https://maximorose.eu
+- 👋 Je suis ingénieur informatique et process.
+- 🔐 J'ai beaucoup travaillé dans la securité, notamment des données personnelles
+- 📊 J'aime vraiment (beaucoup) analyser des données et faire des tableaux de bords
+- 🤖 Je fais aussi des modèles pour que les machines puissent apprendre d'elles-memes de ces données
 
-
-Things I need to remember : [W3C Spreadsheet](https://www.w3.org/2009/cheatsheet/#autocomplete)
+Quelques exemples :
+- Apprentissage non supervise et analyse de drift, [ici](https://github.com/MaximoRose/segmentation_client_python)
+](- Aide a la decision, RGPD et API-sation de modele, ici
+- Reconnaissance d'image et calcul distribue (Spark) sur AWS, ici
 
 
 <!---
