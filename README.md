@@ -4,9 +4,9 @@
 - 🤖 Je fais aussi des modèles pour que les machines puissent apprendre d'elles-memes de ces données
 
 Quelques exemples :
-- Apprentissage non supervise et analyse de drift, [ici](https://github.com/MaximoRose/segmentation_client_python)
-- Aide a la decision, RGPD et API-sation de modele, ici
-- Reconnaissance d'image et calcul distribue (Spark) sur AWS, ici
+1. Apprentissage non supervise et analyse de drift, [ici](https://github.com/MaximoRose/segmentation_client_python)
+2. Aide a la decision, RGPD et API-sation de modele, ici
+3. Reconnaissance d'image et calcul distribue (Spark) sur AWS, ici
 
 
 <!---
