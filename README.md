@@ -5,7 +5,7 @@
 
 Quelques exemples :
 - Apprentissage non supervise et analyse de drift, [ici](https://github.com/MaximoRose/segmentation_client_python)
-](- Aide a la decision, RGPD et API-sation de modele, ici
+- Aide a la decision, RGPD et API-sation de modele, ici
 - Reconnaissance d'image et calcul distribue (Spark) sur AWS, ici
 
 
