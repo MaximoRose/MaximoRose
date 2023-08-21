@@ -1,12 +1,13 @@
 - 👋 Je suis ingénieur informatique et process.
-- 🔐 J'ai beaucoup travaillé dans la securité, notamment des données personnelles
-- 📊 J'aime vraiment (beaucoup) analyser des données et faire des tableaux de bords
-- 🤖 Je fais aussi des modèles pour que les machines puissent apprendre d'elles-memes de ces données
+- 🔐 J'ai travaillé dans la securité, notamment des données personnelles
+- 📊 J'aime analyser des données et faire des tableaux de bords
+- 🤖 Je fais aussi des modèles d'apprentissage machine
 
 Quelques exemples :
-1. Apprentissage non supervise et analyse de drift, [ici](https://github.com/MaximoRose/segmentation_client_python)
-2. Aide a la decision, RGPD et API-sation de modele, ici
-3. Reconnaissance d'image et calcul distribue (Spark) sur AWS, ici
+1. Apprentissage non supervisé et analyse de _drift_, [ici](https://github.com/MaximoRose/segmentation_client_python)
+2. Aide a la décision, RGPD et API-sation de modele, ici
+3. Reconnaissance d'image et calcul distribué (Spark) sur AWS, ici
+4. Collecte et analyse de données pour vulgarisation, [ici](https://s01.810.fr/)
 
 
 <!---
